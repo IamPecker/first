@@ -1,0 +1,10 @@
+org\n52\sos\ogc\wml\ObservationProcess.class
+org\n52\sos\encode\AbstractWmlEncoderv20.class
+org\n52\sos\ogc\wml\ConformanceClassesWML2DR.class
+org\n52\sos\ogc\wml\ConformanceClassesWML2.class
+org\n52\sos\encode\WmlTVPEncoderv20.class
+org\n52\sos\encode\streaming\WmlTVPEncoderv20XmlStreamWriter.class
+org\n52\sos\encode\streaming\WmlTDREncoderv20XmlStreamWriter.class
+org\n52\sos\ogc\wml\WaterMLConstants.class
+org\n52\sos\encode\WmlTDREncoderv20.class
+org\n52\sos\convert\WaterMLv20SensorMLv101Converter.class

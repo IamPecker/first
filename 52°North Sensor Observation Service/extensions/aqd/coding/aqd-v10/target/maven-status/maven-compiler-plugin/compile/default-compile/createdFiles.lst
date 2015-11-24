@@ -1,0 +1,12 @@
+org\n52\sos\decode\kvp\AqdGetObservationKvpDecoder.class
+org\n52\sos\encode\streaming\aqd\v1\AqdGetObservationResponseXmlStreamWriter.class
+org\n52\sos\encode\streaming\aqd\v1\AqdGetObservationResponseXmlStreamWriter$WriteTimerTask.class
+org\n52\sos\decode\kvp\AqdDescribeSensorKvpDecoder.class
+org\n52\sos\decode\AqdDecoderv10.class
+org\n52\sos\encode\streaming\aqd\v1\AqdGetObservationResponseXmlStreamWriter$1.class
+org\n52\sos\encode\aqd\v1\AqdDescribeSensorResponseEncoder.class
+org\n52\sos\encode\AqdEncoder.class
+org\n52\sos\encode\aqd\v1\AbstractAqdResponseEncoder.class
+org\n52\sos\encode\aqd\v1\AqdGetObservationResponseEncoder.class
+org\n52\sos\decode\kvp\AqdGetCapabilitiesKvpDecoder.class
+org\n52\sos\encode\aqd\v1\AqdGetCapabilitiesResponseEncoder.class

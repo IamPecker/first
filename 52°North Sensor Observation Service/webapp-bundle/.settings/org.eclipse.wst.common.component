@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="52°North SOS - Webapp with Sensor Web REST API">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/target/m2e-jee/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <dependent-module archiveName="hibernate-datasource-postgres-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/PostGIS Datasource/PostGIS Datasource">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="api-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS API Module/52°North SOS - SOS API Module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="third-party-ncname-resolver-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North Third Party - NCName resolver/52°North Third Party - NCName resolver">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-session-factory-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate Session Factory/52°North SOS - Hibernate Session Factory">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-common-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate Common/52°North SOS - Hibernate Common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-wml-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - WaterML 2.0 XML Coding/52°North SOS - WaterML 2.0 XML Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="api-aqd-v10-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - AQD 1.0 API Operator/52°North SOS - AQD 1.0 API Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-dao-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate DAOs/52°North SOS - Hibernate DAOs">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-sos-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - 2.0 XML Request Coding/52°North SOS - 2.0 XML Request Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-feature-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate Feature Query DAO/52°North SOS - Hibernate Feature Query DAO">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-datasource-common-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate Common Datasource/52°North SOS - Hibernate Common Datasource">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="/" handle="module:/overlay/prj/52°North SOS - Webapp?includes=**/**&amp;excludes=META-INF/MANIFEST.MF">
+            <dependency-type>consumes</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="static/client/jsClient" handle="module:/overlay/var/M2_REPO/org/n52/sensorweb/restful-timeseries-client/1.0.0/restful-timeseries-client-1.0.0.war?unpackFolder=target/m2e-jee/overlays&amp;includes=**/**&amp;excludes=**/WEB-INF/**;**/META-INF/**;settings.json">
+            <dependency-type>consumes</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="/" handle="module:/overlay/slf/?includes=**/**&amp;excludes=META-INF/MANIFEST.MF">
+            <dependency-type>consumes</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="52n-sos-webapp##4.3.4"/>
+        <property name="java-output-path" value="/52°North SOS - Webapp with Sensor Web REST API/target/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,8 @@
+org\n52\sos\decode\GmlDecoderv311.class
+org\n52\sos\decode\SweCommonDecoderV101.class
+org\n52\sos\convert\SensorMLUrlMimeTypeConverter.class
+org\n52\sos\decode\SensorMLDecoderV101.class
+org\n52\sos\encode\SweCommonEncoderv101.class
+org\n52\sos\encode\SensorMLEncoderv101.class
+org\n52\sos\encode\GmlEncoderv311.class
+org\n52\sos\encode\SensorMLEncoderv101$1.class

@@ -1,0 +1,17 @@
+org\n52\sos\ds\hibernate\util\HibernateSQLQueryUtilities.class
+org\n52\sos\ds\hibernate\type\UtcTimestampTypeDescriptor$1.class
+org\n52\sos\ds\hibernate\util\DefaultHibernateConstants.class
+org\hibernate\criterion\HibernateCriterionHelper.class
+org\n52\sos\ds\hibernate\UnspecifiedSessionFactoryProvider$1.class
+org\n52\sos\ds\hibernate\util\HibernateHelper.class
+org\n52\sos\ds\hibernate\type\UtcTimestampType.class
+org\n52\sos\ds\hibernate\type\UtcTimestampTypeDescriptor.class
+org\n52\sos\ds\hibernate\type\UtcTimestampTypeDescriptor$2.class
+org\n52\sos\ds\hibernate\util\HibernateMetadataCache.class
+org\n52\sos\ds\hibernate\AbstractSessionFactoryProvider.class
+org\n52\sos\ds\hibernate\util\HibernateConstants.class
+org\n52\sos\ds\hibernate\UnspecifiedSessionFactoryProvider.class
+org\n52\sos\ds\hibernate\ThreadLocalSessionFactory.class
+org\n52\sos\ds\hibernate\ThreadLocalSessionFactory$1.class
+org\n52\sos\ds\hibernate\SessionFactoryProvider.class
+org\n52\sos\ds\hibernate\HibernateSessionHolder.class

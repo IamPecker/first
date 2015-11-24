@@ -1,0 +1,12 @@
+net\opengis\sosdo\x10\impl\DeleteObservationResponseDocumentImpl.class
+net\opengis\sosdo\x10\impl\DeleteObservationResponseTypeImpl.class
+net\opengis\sosdo\x10\DeleteObservationDocument$Factory.class
+net\opengis\sosdo\x10\impl\DeleteObservationDocumentImpl.class
+net\opengis\sosdo\x10\impl\DeleteObservationTypeImpl.class
+net\opengis\sosdo\x10\DeleteObservationResponseType.class
+net\opengis\sosdo\x10\DeleteObservationResponseDocument.class
+net\opengis\sosdo\x10\DeleteObservationType$Factory.class
+net\opengis\sosdo\x10\DeleteObservationType.class
+net\opengis\sosdo\x10\DeleteObservationDocument.class
+net\opengis\sosdo\x10\DeleteObservationResponseType$Factory.class
+net\opengis\sosdo\x10\DeleteObservationResponseDocument$Factory.class

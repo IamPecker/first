@@ -1,0 +1,5 @@
+org\n52\sos\request\operator\AqdGetObservationOperatorV10.class
+org\n52\sos\service\operator\AqdServiceOperatorV10.class
+org\n52\sos\request\operator\AbstractAqdRequestOperator.class
+org\n52\sos\request\operator\AqdDescribeSensorOperatorV10.class
+org\n52\sos\request\operator\AqdGetCapabilitiesOperatorV10.class

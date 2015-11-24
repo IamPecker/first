@@ -1,0 +1,14 @@
+org\n52\sos\decode\kvp\AbstractKvpDecoder.class
+org\n52\sos\binding\KvpBinding.class
+org\n52\sos\decode\kvp\v2\GetFeatureOfInterestKvpDecoderv20.class
+org\n52\sos\decode\kvp\v2\GetObservationKvpDecoderv20.class
+org\n52\sos\decode\kvp\v2\DeleteSensorKvpDecoderv20.class
+org\n52\sos\decode\kvp\v2\GetResultKvpDecoderv20.class
+org\n52\sos\decode\kvp\v2\GetResultTemplateKvpDecoderv20.class
+org\n52\sos\decode\kvp\v2\DescribeSensorKvpDecoderv20.class
+org\n52\sos\decode\kvp\v1\DescribeSensorKvpDecoderv100.class
+org\n52\sos\decode\kvp\GetCapabilitiesKvpDecoder.class
+org\n52\sos\decode\kvp\v1\GetObservationKvpDecoderv100.class
+org\n52\sos\decode\kvp\v2\GetObservationByIdKvpDecoderv20.class
+org\n52\sos\decode\kvp\v2\GetObservationKvpDecoderv20$1.class
+org\n52\sos\decode\kvp\v2\GetCapabilitiesKvpDecoder.class

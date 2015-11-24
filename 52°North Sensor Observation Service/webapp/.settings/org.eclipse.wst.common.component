@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="52°North SOS - Webapp">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/target/m2e-jee/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <dependent-module archiveName="profile-xml-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Profile XmlBeans Module/52°North SOS - Profile XmlBeans Module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="profile-coding-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Profile Coding Module/52°North SOS - Profile Coding Module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="api-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS API Module/52°North SOS - SOS API Module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="sqlite-config-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SQLite Configuration/52°North SOS - SQLite Configuration">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="admin-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Administrator Service Operator/52°North SOS - Administrator Service Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="cache-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Cache/52°North SOS - Cache">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="gc-dao-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - GetCapabilities DAO/52°North SOS - GetCapabilities DAO">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-ows-v110-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - OWS 1.1.0 XML Request Coding/52°North SOS - OWS 1.1.0 XML Request Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-sensorML-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Abstract SensorML Coding Module/52°North SOS - Abstract SensorML Coding Module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-sensorML-v101-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SensorML 101 Request Coding/52°North SOS - SensorML 101 Request Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-sensorML-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SensorML 20 Request Coding/52°North SOS - SensorML 20 Request Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-sos-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - 2.0 XML Request Coding/52°North SOS - 2.0 XML Request Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-sos-v100-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS 1.0.0 XML Request Coding/52°North SOS - SOS 1.0.0 XML Request Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-json-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - JSON Coding/52°North SOS - JSON Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-json-common-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - JSON Common/52°North SOS - JSON Common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-wml-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - WaterML 2.0 XML Coding/52°North SOS - WaterML 2.0 XML Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="core-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS 2.0 Core Profile Operator/52°North SOS - SOS 2.0 Core Profile Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="enhanced-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS 2.0 Enhanced Profile Operator/52°North SOS - SOS 2.0 Enhanced Profile Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="transactional-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS 2.0 Transactional Profile Operator/52°North SOS - SOS 2.0 Transactional Profile Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="resultHandling-v20-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS 2.0 Result Handling Profile Operator/52°North SOS - SOS 2.0 Result Handling Profile Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="request-response-coordinate-transformer-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Coordinate transformation module/52°North SOS - Coordinate transformation module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="core-v100-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS 1.0.0 Core Profile Operator/52°North SOS - SOS 1.0.0 Core Profile Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-session-factory-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate Session Factory/52°North SOS - Hibernate Session Factory">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-common-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate Common/52°North SOS - Hibernate Common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-dao-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate DAOs/52°North SOS - Hibernate DAOs">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-feature-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate Feature Query DAO/52°North SOS - Hibernate Feature Query DAO">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-datasource-common-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate Common Datasource/52°North SOS - Hibernate Common Datasource">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-datasource-postgres-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/PostGIS Datasource/PostGIS Datasource">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-datasource-mysql-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate MySQL Datasource/52°North SOS - Hibernate MySQL Datasource">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-datasource-h2-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Hibernate H2 Datasource/52°North SOS - Hibernate H2 Datasource">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="binding-kvp-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - KVP Binding/52°North SOS - KVP Binding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="binding-soap-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOAP Binding/52°North SOS - SOAP Binding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="binding-pox-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - POX Binding/52°North SOS - POX Binding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="binding-json-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - JSON Binding/52°North SOS - JSON Binding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="binding-exi-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - EXI Efficient XML Interchange Binding/52°North SOS - EXI Efficient XML Interchange Binding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-exi-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - EXI Coding/52°North SOS - EXI Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="rest-code-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension REST Binding - Core/52°North SOS - Extension REST Binding - Core">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="rest-xml-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension REST Binding - XML/52°North SOS - Extension REST Binding - XML">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="gda-operation-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension GetDataAvailability - SOS 2.0 Operation/52°North SOS - Extension GetDataAvailability - SOS 2.0 Operation">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="gda-hibernate-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension GetDataAvailability - Hibernate DAO/52°North SOS - Extension GetDataAvailability - Hibernate DAO">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="do-xml-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension Delete Observation - XML/52°North SOS - Extension Delete Observation - XML">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="do-core-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension Delete Observation - Operation/52°North SOS - Extension Delete Observation - Operation">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="do-json-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension Delete Observation - JSON/52°North SOS - Extension Delete Observation - JSON">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="do-hibernate-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension Delete Observation - Hibernate DAO/52°North SOS - Extension Delete Observation - Hibernate DAO">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="do-kvp-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension Delete Observation - KVP/52°North SOS - Extension Delete Observation - KVP">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="client-controller-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Web Client Controller/52°North SOS - Web Client Controller">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="install-controller-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Web Install Controller/52°North SOS - Web Install Controller">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="admin-controller-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Web Admin Controller/52°North SOS - Web Admin Controller">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="common-controller-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Web Common Controller/52°North SOS - Web Common Controller">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="third-party-ncname-resolver-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North Third Party - NCName resolver/52°North Third Party - NCName resolver">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ereporting-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - SOS 2.0 eReporting Extension/52°North SOS - SOS 2.0 eReporting Extension">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="inspire-code-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Extension for Inspire - Code Module/52°North SOS - Extension for Inspire - Code Module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coding-aqd-v10-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North AQD - 1.0 XML Coding/52°North AQD - 1.0 XML Coding">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="core-aqd-v10-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - AQD 1.0 Core Profile Operator/52°North SOS - AQD 1.0 Core Profile Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="api-aqd-v10-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - AQD 1.0 API Operator/52°North SOS - AQD 1.0 API Operator">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aqd-split-and-merge-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - AQD Split and Merge observations module/52°North SOS - AQD Split and Merge observations module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="abstract-identifier-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Abstract Identifier Modifier Modules/52°North SOS - Abstract Identifier Modifier Modules">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="flexible-identifier-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Flexible identifier convert module/52°North SOS - Flexible identifier convert module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="prefixed-identifier-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Prefixed identifier convert module/52°North SOS - Prefixed identifier convert module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ereporting-identifier-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - eReporting Prefixed identifier convert module/52°North SOS - eReporting Prefixed identifier convert module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="split-and-merge-4.3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/52°North SOS - Split and Merge observations module/52°North SOS - Split and Merge observations module">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="/" handle="module:/overlay/prj/52°North SOS - Web Views?includes=**/**&amp;excludes=META-INF/MANIFEST.MF">
+            <dependency-type>consumes</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="/" handle="module:/overlay/slf/?includes=**/**&amp;excludes=META-INF/MANIFEST.MF">
+            <dependency-type>consumes</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="52n-sos-webapp##4.3.4"/>
+        <property name="java-output-path" value="/52°North SOS - Webapp/target/classes"/>
+    </wb-module>
+</project-modules>
